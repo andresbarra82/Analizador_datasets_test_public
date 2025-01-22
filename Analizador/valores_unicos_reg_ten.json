@@ -1,0 +1,15 @@
+{
+    "valores_unicos": {
+        "sexo_jefe_hogar": [
+            "Mujer",
+            "TOTAL",
+            "Var\u00f3n"
+        ],
+        "regimen_tenencia_vivienda": [
+            "Propietario de la vivienda y el terreno",
+            "Inquilino o arrendatario",
+            "Ocupante en relaci\u00f3n de dependencia o por trabajo",
+            "Irregular"
+        ]
+    }
+}

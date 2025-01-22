@@ -1,0 +1,15 @@
+{
+    "valores_unicos": {
+        "relacion_ing_canasta": [
+            "Ingresos menores a la Canasta Alimentaria",
+            "Ingresos entre la Canasta Alimentaria y la Canasta Alimentaria y de Servicios del Hogar",
+            "Ingresos entre Canasta Alimentaria y de Servicios del Hogar y la Canasta de Bienes y Servicios Mensuales",
+            "Ingresos entre Canasta de Bienes y Servicios Mensuales y la Canasta Total",
+            "Ingresos iguales o mayores a la Canasta Total"
+        ],
+        "sexo_jefe_hogar": [
+            "Mujer",
+            "Var\u00f3n"
+        ]
+    }
+}

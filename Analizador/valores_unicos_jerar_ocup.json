@@ -1,0 +1,16 @@
+{
+    "valores_unicos": {
+        "sexo": [
+            "TOTAL",
+            "m",
+            "v"
+        ],
+        "jerarquia_ocupacional": [
+            "Directivo",
+            "Jefe intermedio administrativo-contable",
+            "Jefe intermedio de producci\u00f3n de bienes y servicios",
+            "Ejecuci\u00f3n directa de tareas administrativo-contables",
+            "Ejecuci\u00f3n directa de producci\u00f3n de biene y servicios"
+        ]
+    }
+}
