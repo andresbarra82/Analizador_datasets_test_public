@@ -1,0 +1,15 @@
+{
+    "valores_unicos": {
+        "origen": [
+            NaN,
+            "Repatriados",
+            "UFU",
+            "Rotacion"
+        ],
+        "genero": [
+            NaN,
+            "F",
+            "M"
+        ]
+    }
+}
